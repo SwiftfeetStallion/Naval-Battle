@@ -9,7 +9,9 @@
 
 
 ```
-How to run:  
+How to run:
+git checkout checkpoint
+cd checkpoint_3  
 ./run.sh   
 
 ```
